@@ -11,11 +11,17 @@ Password Strength Results:
 ==========================
 
 Password: account8 | Is strong: false
+
 Search costs:
+
   Separate Chaining with earlyHashCode: 9
+  
   Separate Chaining with currentHashCode: 6
+  
   Linear Probing with earlyHashCode: 6
+  
   Linear Probing with currentHashCode: 4
+  
 
 Password: accountability | Is strong: false
 Search costs:
