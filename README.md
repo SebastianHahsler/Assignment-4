@@ -22,7 +22,7 @@ Search costs:
   
   Linear Probing with currentHashCode: 4
   
-
+-------------------------------------------
 Password: accountability | Is strong: false
 
 Search costs:
